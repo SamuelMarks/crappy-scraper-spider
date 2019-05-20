@@ -1,0 +1,4 @@
+pyyaml
+scrapy
+scrapy-splash
+bs4
